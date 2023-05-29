@@ -9,5 +9,5 @@ Mentoria Semiestruturada:
 
 
 [Modelo de thread](https://trybecourse.slack.com/archives/C052YUJC5LJ/p1682373630394629)
-
+[Gravação turma 33](https://drive.google.com/drive/folders/1dspNAbiZg2zJTk4Kt0nVutVpWqf2eaNL) 
 
