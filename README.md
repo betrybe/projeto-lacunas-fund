@@ -7,7 +7,7 @@
 No módulo de Frontend identificamos que frequentemente pessoas estudantes apresentam dificuldades em temas abordados durante o módulo de fundamentos e que são chave para um bom aprendizado no módulo de Frontend, sendo eles:Gestão do tempo e organização. Neste sentido, este diagnóstico visa construir uma base nessas temáticas para que as pessoas estudantes tenham um melhor aproveitamento do módulo de front-end.
 
 *Ferramenta*
-<Typeforms|https://www.typeform.com/> 
+[Typeforms](https://www.typeform.com/) 
 
 
 Público Alvo
